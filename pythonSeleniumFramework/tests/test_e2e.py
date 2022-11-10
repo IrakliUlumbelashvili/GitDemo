@@ -62,6 +62,8 @@ class TestE2E(BaseClass):
         assert check_message in original_message
         assert original_message == original_notification
 
+        print("omeCode")
+
     #Thinkcronization methods are also known as waits . 2 types of waits  1. inplisit 2 explisit waits
     # this waits are designed to wait until element is located present on the page
     #drive.implicitly_wait (19)  - ramdeni xani meicados
