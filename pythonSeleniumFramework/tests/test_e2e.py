@@ -66,6 +66,7 @@ class TestE2E(BaseClass):
         print("CuTThis")
         print("GitStuffDemo")
         print("MyCHange")
+        print("ChangeMine")
 
     #Thinkcronization methods are also known as waits . 2 types of waits  1. inplisit 2 explisit waits
     # this waits are designed to wait until element is located present on the page
